@@ -1,0 +1,1 @@
+pass_gmail = 'sua senha do gmail'
