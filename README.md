@@ -14,6 +14,8 @@
 
 O projeto consiste em editar um template de certificado com a lista de nomes na planilha e depois enviar automaticamente e forma dinâmica por email.
 
+Video explicativo: https://www.youtube.com/watch?v=w3ZxQVJjfDc&t=76s
+
 ## 🚀 Features <a name="features"></a>
 - Gerar certificado com nome personalizado
 - Enviar automaticamente por email com base na lista da planilha de nomes

@@ -43,7 +43,7 @@ class EditCertificate:
         usuario = yagmail.SMTP(user='seu_email@gmail.com', password=pass_gmail) ############################# ---- ALTERE POR SEU EMAIL ------------
         
         assunto = 'Certificado de Participação - Evangelizando o SQL'
-        conteudo = f'Olá {name},\n\nAqui está o seu segundo certificado, pois verifiquei que o primeiro não ficou bom. \n\nAtenciosamente,\nAdministração Evangelizando SQL'
+        conteudo = f'Olá {name},\n\nAqui está o seu certificado de participação. \n\nAtenciosamente,\nAdministração Evangelizando SQL'
 
         # Anexar a imagem do certificado
         usuario.send(
